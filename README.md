@@ -2,6 +2,8 @@
 
 I play games and make some things. Oh and also I'm a pro gamer.
 
+The CSS motto is: "It worked after some try-it-and-see."
+
 <h3 align="left">
   You can add me to play Fall Guys on <a href='https://store.epicgames.com/en-US/u/10cc31e3e85346a8a674ea7584e6ab84'>Epic Games</a>.
 </h3>
