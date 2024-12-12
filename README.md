@@ -12,8 +12,8 @@ The CSS motto is: "It worked after some try-it-and-see."
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 
-![face-hh](https://github-readme-stats.vercel.app/api?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&hide=["issues"])
+![MKstarFromSwitch](https://github-readme-stats.vercel.app/api?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&layout=compact)
+![MKstarFromSwitch](https://github-readme-stats.vercel.app/api/top-langs?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&layout=compact)
 
 --- END RANDOM STATS NO ONE READS ---
