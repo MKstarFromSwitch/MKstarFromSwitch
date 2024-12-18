@@ -10,10 +10,10 @@ The CSS motto is: "It worked after some try-it-and-see."
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Click+here+to+touch+grass.)](https://www.touchgrasss.com)
 
---- BEGIN RANDOM STATS NO ONE READS (OUTDATED) ---
+--- BEGIN RANDOM STATS NO ONE READS ---
 
 ![MKstarFromSwitch](https://github-readme-stats.vercel.app/api?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![MKstarFromSwitch](https://github-readme-stats.vercel.app/api/top-langs?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&layout=compact)
 
---- END RANDOM STATS NO ONE READS (OUTDATED) ---
+--- END RANDOM STATS NO ONE READS ---
