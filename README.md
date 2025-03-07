@@ -14,6 +14,9 @@ TLauncher Minecraft IGN: mkstarfromswitch
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MKstarFromSwitch)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![MKstarFromSwitch](https://github-readme-stats.vercel.app/api?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![MKstarFromSwitch](https://github-readme-stats.vercel.app/api/top-langs?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&layout=compact)
