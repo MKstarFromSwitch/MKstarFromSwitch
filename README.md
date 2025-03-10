@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/dVVvVxCTXBMAAAAi/akirambow-smile-person.gif" width="100"/>
-</div>
-
 <h1 align="left">YOOOOO</h1>
 
 I play games (mostly Minecraft) and make some things. Oh and also I'm a pro gamer.
