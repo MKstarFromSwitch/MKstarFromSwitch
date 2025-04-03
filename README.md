@@ -5,8 +5,9 @@ I play games (mostly Minecraft) and make some things. Oh and also I'm a pro game
 
 The CSS motto is: "It worked after some try-it-and-see."
 
-TLauncher Minecraft IGN: mkstarfromswitch
-(I play on Fakepixel since I installed 1.8.9 Lunar Client) 
+Minecraft IGN: mkstarfromswitch
+(I play on MCC Island, Hypixel (albeit very rarely), CubeCraft, and Minehut.)) 
+
 
 <h3 align="left">
   You can add me to play Fall Guys on <a href='https://store.epicgames.com/en-US/u/10cc31e3e85346a8a674ea7584e6ab84'>Epic Games</a> or get more contact info on <a  href='https://mkstarfromswitch.github.io'>my website</a>.
