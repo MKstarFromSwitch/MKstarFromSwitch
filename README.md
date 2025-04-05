@@ -5,8 +5,9 @@ I play games (mostly Minecraft) and make some things. Oh and also I'm a pro game
 
 The CSS motto is: "It worked after some try-it-and-see."
 
-Minecraft IGN: mkstarfromswitch
-(I play on MCC Island, Hypixel (albeit very rarely), CubeCraft, and Minehut.)) 
+Minecraft IGN (I play 1.8.9 Lunar Client): mkstarfromswitch
+
+(I play on Hypixel, usually Bedwars Doubles.) 
 
 
 <h3 align="left">
