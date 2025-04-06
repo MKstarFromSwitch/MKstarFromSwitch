@@ -1,7 +1,7 @@
 
 <h1 align="left">YOOOOO</h1>
 
-I play games (mostly Minecraft) and make some things. Oh and also I'm a pro gamer (and redstoner!). Yes I copied <a href='https://github.com/face-hh'>Face's README</a>
+I play games (mostly Minecraft) and make some things. Oh and also I'm a pro gamer (and redstoner, Minecraft texture pack maker, and builder!). Yes I copied <a href='https://github.com/face-hh'>Face's README</a>
 
 The CSS motto is: "It worked after some try-it-and-see."
 
