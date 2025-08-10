@@ -15,7 +15,6 @@ Geometry Dash IGN: MKstarfromnx
 
 <h3 align="left">
   You can add me to play Fall Guys on <a href='https://store.epicgames.com/en-US/u/10cc31e3e85346a8a674ea7584e6ab84'>Epic Games</a> or get more contact info on <a  href='https://mkstarfromswitch.github.io'>my website</a>.
-
   
   You can also find me on <a href='https://gdbrowser.com/u/MKstarfromnx'>Geometry Dash</a>.
 </h3>
