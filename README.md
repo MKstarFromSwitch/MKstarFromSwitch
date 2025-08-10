@@ -1,12 +1,14 @@
 
 <h1 align="left">YOOOOO</h1>
 
-I play games (mostly Minecraft) and make some things. Oh and also I'm a pro gamer (and redstoner, Minecraft texture pack maker, and builder!). Yes I copied <a href='https://github.com/face-hh'>Face's README</a>
+I play games (mostly Minecraft and Geometry Dash) and make some things. Oh and also I'm a pro gamer (and redstoner, Minecraft texture pack maker, and builder!). Yes I copied <a href='https://github.com/face-hh'>Face's README</a>
 
 The CSS motto is: "It worked after some try-it-and-see."
 
 Minecraft IGN (I play 1.8.9 Lunar Client, add me on Hypixel for a teammate): mkstarfromswitch
+Geometry Dash IGN: MKstarfromnx
 
+-- Minecraft --
 (I play on Hypixel, usually Bedwars Doubles.) 
 
 
