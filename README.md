@@ -1,33 +1,12 @@
+<h1 align=left>Hi</h1>
 
-<h1 align="left">YOOOOO</h1>
+Hello, I'm MKstar! I'm a Bash coder, iOS (and sometimes Android?) tinkerer, and phone collector. I also hate VPNs for absolutely no reason. Find other stuff in <a href=https://github.com/MKstarFromSwitch/MKstarFromSwitch/old_README2.md>my old README</a>.
 
-I play games (mostly Minecraft and Geometry Dash) and make some things. Also I'm a gamer (and phone collector, iOS tinkerer, and many more). Yes I kinda copied <a href='https://github.com/face-hh/face-hh/README.md'>Face's README</a>
+Here are some iOS projects I've made:
+- <a href=https://github.com/MKstarFromSwitch/ios712-hacktivator>ios712-hacktivator</a> (Currently WIP hacktivator for iOS 7.1.2 iPhone 4's)
+- <a href=https://github.com/MKstarFromSwitch/checkra1nproperinstall>checkra1nproperinstall</a> (A way to properly install checkra1n on Linux)
+- <a href=https://github.com/MKstarFromSwitch/SundanceInH2A-Linux>SundanceInH2A-Linux</a> (<a href=https://github.com/LukeZGD>LukeZGD</a> made a better fork of this one, so I archived it, thanks LukeZGD)
 
-The CSS motto is: "It worked after some try-it-and-see."
+Check out <a href=https://mkstarfromswitch.github.io/>my stupid Pinegrow website</a> for more info.
 
-Minecraft IGN (I play 1.8.9 Lunar Client, add me on Hypixel for a teammate): mkstarfromswitch
-Geometry Dash username: MKstarfromNX
-
--- Minecraft --
-
-(I play on Hypixel, usually Bedwars Doubles.) 
-
-
-<h3 align="left">
-  You can add me to play Fall Guys on <a href='https://store.epicgames.com/en-US/u/10cc31e3e85346a8a674ea7584e6ab84'>Epic Games</a> or get more contact info on <a  href='https://mkstarfromswitch.github.io'>my website</a>. I also have a <a href='https://mkstarfromswitch.straw.page'>strawpage</a> that's a little cringe.
-
-  You can also find me on <a href='https://gdbrowser.com/u/MKstarfromnx'>Geometry Dash</a>.
-</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass)](https://www.touchgrasss.com)
-
---- BEGIN RANDOM STATS NO ONE READS ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MKstarFromSwitch)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![MKstarFromSwitch](https://github-readme-stats.vercel.app/api?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![MKstarFromSwitch](https://github-readme-stats.vercel.app/api/top-langs?username=MKstarFromSwitch&show_icons=true&theme=tokyonight&layout=compact)
-
---- END RANDOM STATS NO ONE READS ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+like+iOS+and+tinkering+with+it)](https://git.io/typing-svg)
