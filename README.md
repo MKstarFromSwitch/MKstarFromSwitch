@@ -17,3 +17,5 @@ Here are some iOS projects I've made:
 Check out [my stupid Pinegrow website](https://mkstarfromswitch.github.io/) for more info.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+like+iOS+and+tinkering+with+it)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MKstarFromSwitch&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
