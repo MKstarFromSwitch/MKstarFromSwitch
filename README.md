@@ -8,7 +8,7 @@ Here are some iOS projects I've made:
 
 - [checkra1nproperinstall](https://github.com/MKstarFromSwitch/checkra1nproperinstall) - A way to properly install checkra1n on Linux
 - [SundanceInH2A-Linux](https://github.com/MKstarFromSwitch/SundanceInH2A-Linux) - [LukeZGD](https://github.com/LukeZGD) made a better fork of this one, so I archived it, thanks LukeZGD
-- [iostoolkitrepo](https://github.com/MKstarFromSwitch/iostoolkitrepo) - An APT repo to install some iOS tools, like img3tool or pzb
+- [iostoolkitrepo](https://github.com/MKstarFromSwitch/iostoolkitrepo) - An APT repo to install some iOS tools, like img3tool or pzb (not a Cydia repo!)
 - [LegacySSHRDScript](https://github.com/MKstarFromSwitch/LegacySSHRDScript) - A work-in-progress clone of [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) for 32-bit iPhones (iPhone only for now, I have more iPhones than iPads or iPods)
 - [ipodsync-linux](https://github.com/MKstarFromSwitch/ipodsync-linux) - A tool for syncing iPod Classic, Nano, and Shuffle devices on Linux. Rockbox will not need this for Linux syncing.
 
