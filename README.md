@@ -14,6 +14,7 @@ Here are my skills:
  - iOS tinkering (iPhones, iPads, and iPods) (for iPod Classics it's to an extent, for iPod Touches I'm pretty much fully skilled in it)
  - Bash coding (intermediate)
  - Making APT repos and GPG signing to an extent because of this
+ - Linux/Unix (pretty good at it) (I'mma install Arch one day)
  - Go down below for more info.
 
 ## iOS Projects
