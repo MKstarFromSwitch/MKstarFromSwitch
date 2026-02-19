@@ -13,6 +13,7 @@ Hello, I'm MKstar! I'm a Bash coder, iOS (and sometimes Android?) tinkerer, and 
 Here are my skills:
  - iOS tinkering (iPhones, iPads, and iPods) (for iPod Classics it's to an extent, for iPod Touches I'm pretty much fully skilled in it)
  - Bash coding (intermediate)
+ - Making APT repos and GPG signing to an extent because of this
  - Go down below for more info.
 
 ## iOS Projects
