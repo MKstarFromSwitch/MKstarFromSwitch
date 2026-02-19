@@ -9,6 +9,12 @@ Hello, I'm MKstar! I'm a Bash coder, iOS (and sometimes Android?) tinkerer, and 
   <img src="https://camo.githubusercontent.com/dd021517f90a9725c8f20fc6abd4c25ba7ef665902e86f1a4ebf9f9923908dea/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d32302670617573653d3130303026636f6c6f723d3761613266372663656e7465723d74727565267643656e7465723d747275652677696474683d343030266c696e65733df09f8ea72b566962696e672b746f2b7468652b436f64653be29ca82b4d757369632b69732b7468652b456e657267793bf09f8c832b4372656174696e672b7468652b467574757265">
 </div>
 
+## Skills
+Here are my skills:
+ - iOS tinkering (iPhones, iPads, and iPods) (for iPod Classics it's to an extent, for iPod Touches I'm pretty much fully skilled in it)
+ - Bash coding (intermediate)
+ - Go down below for more info.
+
 ## iOS Projects
 
 Here are some iOS projects I've made:
