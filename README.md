@@ -2,6 +2,8 @@
 
 Hello, I'm MKstar! I'm a Bash coder, iOS (and sometimes Android?) tinkerer, and phone collector. I also hate VPNs for absolutely no reason. Find other stuff in [my old README](https://github.com/MKstarFromSwitch/MKstarFromSwitch/old_README2.md).
 
+<img src="https://raw.githubusercontent.com/locfaker/locfaker/output/github-contribution-grid-snake-dark.svg">
+
 ## iOS Projects
 
 Here are some iOS projects I've made:
