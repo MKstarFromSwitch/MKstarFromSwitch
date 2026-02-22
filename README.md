@@ -8,6 +8,9 @@ Hello, I'm MKstar! I'm a Bash coder, iOS (and sometimes Android?) tinkerer, and 
 <p align="center">
   <img src="https://camo.githubusercontent.com/dd021517f90a9725c8f20fc6abd4c25ba7ef665902e86f1a4ebf9f9923908dea/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d32302670617573653d3130303026636f6c6f723d3761613266372663656e7465723d74727565267643656e7465723d747275652677696474683d343030266c696e65733df09f8ea72b566962696e672b746f2b7468652b436f64653be29ca82b4d757369632b69732b7468652b456e657267793bf09f8c832b4372656174696e672b7468652b467574757265">
 </p>
+<p align="center">
+  <img src="https://c.tenor.com/fX7iwo1yJOoAAAAC/tenor.gif">
+</p>
 
 ## Skills
 Here are my skills:
@@ -34,3 +37,4 @@ Check out [my stupid Pinegrow website](https://mkstarfromswitch.github.io/) for 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+like+iOS+and+tinkering+with+it)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MKstarFromSwitch&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
