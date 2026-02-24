@@ -18,6 +18,7 @@ Here are my skills:
  - Bash coding (intermediate), C++ coding (beginner)
  - Making APT repos and GPG signing to an extent because of this
  - Linux/Unix (pretty good at it)
+ - Notable mention: I installed Arch from memory twice
  - Go down below for more info.
 
 ## iOS Projects
@@ -29,6 +30,7 @@ Here are some iOS projects I've made:
 - [iostoolkitrepo](https://github.com/MKstarFromSwitch/iostoolkitrepo) - An APT repo to install some iOS tools, like img3tool or pzb (not a Cydia repo!)
 - [LegacySSHRDScript](https://github.com/MKstarFromSwitch/LegacySSHRDScript) - A work-in-progress clone of [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) for 32-bit iPhones (iPhone only for now, I have more iPhones than iPads or iPods)
 - [ipodsync-linux](https://github.com/MKstarFromSwitch/ipodsync-linux) - A tool for syncing iPod Classic, Nano, and Shuffle devices on Linux. Rockbox will not need this for Linux syncing.
+- [arch-conf-scripts](https://github.com/MKstarFromSwitch/arch-conf-scripts) - Some config scripts that can be used with the helper script to allow Arch beginners to fix the pacman keyring, install yay (AUR package manager), and more.
 
 ## More Info
 
