@@ -40,3 +40,8 @@ Check out [my stupid Pinegrow website](https://mkstarfromswitch.github.io/) for 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MKstarFromSwitch&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+## Languages I write in
+<!-- These badges are from https://github.com/Ileriayo/markdown-badges !-->
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
