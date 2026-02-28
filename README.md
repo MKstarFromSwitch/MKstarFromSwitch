@@ -18,7 +18,7 @@ Here are my skills:
  - Bash coding (intermediate), C++ coding (beginner)
  - Making APT repos and GPG signing to an extent because of this
  - Linux/Unix (pretty good at it)
- - Notable mention: I installed Arch from memory thrice
+ - Notable mention: I installed Arch from memory thrice, and I know the name of Lake Chargoggagoggmanchauggagoggchaubunagungamaugg from memory. 
  - Go down below for more info.
 
 ## iOS Projects
