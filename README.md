@@ -42,7 +42,7 @@ Check out [my stupid Pinegrow website](https://mkstarfromswitch.github.io/) for 
 
 [![MKstarFromSwitch's GitHub stats](https://github-readme-stats-gamma-lilac.vercel.app/api?username=MKstarFromSwitch&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=MKstarFromSwitch&layout=compact&theme=dark&hide_border=true&bg_color=F6F8FA&langs_count=8&hide=kvlang%2Cmakefile&size_weight=0.5&count_weight=0.5) 
+[![Top Languages](https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs?username=MKstarFromSwitch&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Languages I write in
 <!-- These badges are from https://github.com/Ileriayo/markdown-badges !-->
