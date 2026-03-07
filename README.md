@@ -42,10 +42,11 @@ Check out [my stupid Pinegrow website](https://mkstarfromswitch.github.io/) for 
 
 [![MKstarFromSwitch's GitHub stats](https://github-readme-stats-gamma-lilac.vercel.app/api?username=MKstarFromSwitch&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs?username=MKstarFromSwitch&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Languages](https://github-readme-stats-gamma-lilac.vercel.app/api/top-langs/?username=MKstarFromSwitch&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages I write in
 <!-- These badges are from https://github.com/Ileriayo/markdown-badges !-->
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
