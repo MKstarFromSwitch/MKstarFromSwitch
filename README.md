@@ -21,9 +21,9 @@ Here are my skills:
  - Notable mention: I installed Arch from memory thrice, and I know the name of Lake Chargoggagoggmanchauggagoggchaubunagungamaugg from memory. 
  - Go down below for more info.
 
-## iOS Projects
+## Projects
 
-Here are some iOS projects I've made:
+Here are some projects I've made:
 
 - [checkra1nproperinstall](https://github.com/MKstarFromSwitch/checkra1nproperinstall) - A way to properly install checkra1n on Linux
 - [SundanceInH2A-Linux](https://github.com/MKstarFromSwitch/SundanceInH2A-Linux) - [LukeZGD](https://github.com/LukeZGD) made a better fork of this one, so I archived it, thanks LukeZGD
@@ -31,6 +31,7 @@ Here are some iOS projects I've made:
 - [LegacySSHRDScript](https://github.com/MKstarFromSwitch/LegacySSHRDScript) - A work-in-progress clone of [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) for 32-bit iPhones (iPhone only for now, I have more iPhones than iPads or iPods)
 - [ipodsync-linux](https://github.com/MKstarFromSwitch/ipodsync-linux) - A tool for syncing iPod Classic, Nano, and Shuffle devices on Linux. Rockbox will not need this for Linux syncing.
 - [arch-conf-scripts](https://github.com/MKstarFromSwitch/arch-conf-scripts) - Some config scripts that can be used with the helper script to allow Arch beginners to fix the pacman keyring, install yay (AUR package manager), and more.
+- [moonmi](https://github.com/MKstarFromSwitch/moonmi) - A script that escapes the default Sunmi launcher on the Sunmi M2 
 
 ## More Info
 
